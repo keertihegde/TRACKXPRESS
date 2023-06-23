@@ -1,0 +1,42 @@
+[
+    {
+        "name": "John",
+        "mobileNumber": "1234567890",
+        "coordinates": {
+            "latitude": 12.990593057391948,
+            "longitude": 77.5016929304416
+        }
+    },
+    {
+        "name": "Dheeraj",
+        "mobileNumber": "9876543210",
+        "coordinates": {
+            "latitude": 12.925494291847537,
+            "longitude": 77.54124230732091
+        }
+    },
+    {
+        "name": "Sanjay",
+        "mobileNumber": "5551234567",
+        "coordinates": {
+            "latitude": 12.94915028088642,
+            "longitude": 77.58781352715418
+        }
+    },
+    {
+        "name": "Joseph",
+        "mobileNumber": "8889990000",
+        "coordinates": {
+            "latitude": 12.937323087156926,
+            "longitude": 77.61907535941405
+        }
+    },
+    {
+        "name": "Wilfrid",
+        "mobileNumber": "1112223333",
+        "coordinates": {
+            "latitude": 13.026602151879414,
+            "longitude": 77.52885867940465
+        }
+    }
+]
